@@ -1,1 +1,21 @@
-
+//Values not decided on are substituted with an x(unkown variable)
+Race: Cuban
+    Stats:
+        Health:
+            250,000HP
+        Base Normal Attack Multiplier: 
+            Normal attacks do 40% more damage
+        Base Special Attack Multiplier:
+            Special Attacks do x% more damage
+        Base Chemical Attack Multiplier:
+            Chemical Attacks do x% more damage
+        Base Defense:
+            Damage reduced by 30%
+        Base Special Defense:
+            Damage reduced by 10%
+        Chemical Attack Defense:
+            Damage reduced by 5%
+    Special Moves:
+        //These do not match with the ones coded in the game.
+        Machete:
+            
