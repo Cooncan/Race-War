@@ -16,6 +16,14 @@ Race: Cuban
         Chemical Attack Defense:
             Damage reduced by 5%
     Special Moves:
-        //These do not match with the ones coded in the game.
-        Machete:
-            
+        //Matching moves right now
+        Venom Machete:
+            Dialog: "The Cuban strikes with his venom machete."
+            Damage: 30,000
+            Accuracy: 80%
+            StunDuration: 0
+            poisonDuration: 2
+            poisonStrength: 20% of health removed each turn poison is active.
+            chemicalAttack: False//Should venomous attacks count as chemical attacks?
+            strikeNumber: This attack hits one time.
+            manaCost: This attack uses 10 Uber Shekels
